@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: S Message 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-06 12:55+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Puiu Calin\n"
+"Language-Team: Puiu Calin\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Language: en\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SearchPath-0: /Users/juanramon/htdocs/osclass-git/oc-content/"
+"plugins/premium_off\n"
+
+#: index.php:46
+msgid "Premium Off"
+msgstr ""
+
+#: admin/info.php:27
+msgid "Follow:"
+msgstr ""
+
+#: admin/info.php:33
+msgid "Info"
+msgstr ""
+
+#: admin/info.php:35
+msgid ""
+"This plugin remove the status of premium from inactive ads, so the expired "
+"premium ads will not be displayed on your site. Please take notes that this "
+"plugin need cron to be active and run on your site to remove the premium "
+"status from inactive ads."
+msgstr ""
+
+#: admin/info.php:37
+msgid ""
+"The plugin will perform a check one a day after the premium expired ads and "
+"will mark premium expired ads as normal ads."
+msgstr ""
+
+#: admin/info.php:39
+msgid "More about osclass cron you can read here"
+msgstr ""

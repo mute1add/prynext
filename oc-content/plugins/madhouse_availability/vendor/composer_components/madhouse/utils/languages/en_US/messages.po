@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Madhouse Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-02 12:23+0100\n"
+"PO-Revision-Date: 2013-10-02 12:23+0100\n"
+"Last-Translator: Madhouse\n"
+"Language-Team: Madhouse\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: /Users/romain/Sites/autroisieme/oc-content/plugins/"
+"madhouse_utils\n"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/index.php:49
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/index.php:61
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/index.php:73
+msgid "Oops! We got confused at some point. Try to refresh the page."
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/classes/MadhouseUtils.php:33
+msgid "No date provided !"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/classes/MadhouseUtils.php:44
+msgid "second(s) ago"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/classes/MadhouseUtils.php:47
+msgid "minute(s) ago"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/classes/MadhouseUtils.php:50
+msgid "hour(s) ago"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/classes/MadhouseUtils.php:53
+msgid "day(s) ago"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/classes/MadhouseUtils.php:56
+msgid "month(s) ago"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/classes/MadhouseUtils.php:59
+msgid "year(s) ago"
+msgstr ""
+
+#~ msgid "This message has been deleted."
+#~ msgstr "Ce message a été supprimé."
+
+#~ msgid "Waiting"
+#~ msgstr "En attente"
+
+#~ msgid "Processing"
+#~ msgstr "En discussion"
+
+#~ msgid "Appoint. scheduled"
+#~ msgstr "RDV planifié"
+
+#~ msgid "Accepted"
+#~ msgstr "Accepté"
+
+#~ msgid "Refused"
+#~ msgstr "Refusé"
+
+#~ msgid "The requested message seems not to exists."
+#~ msgstr "Le message demandé ne semble pas exister."
+
+#~ msgid "Can't send an empty message."
+#~ msgstr "Il est impossible d'envoyer un message vide"
+
+#~ msgid "We've successfully sent your message."
+#~ msgstr "Le message a bien été envoyé."
+
+#~ msgid ""
+#~ "You did not give us your phone, therefore we can't sent it to others! "
+#~ "Head back to your account to fill your profile in."
+#~ msgstr ""
+#~ "Votre téléphone est vide, nous ne pouvons donc pas le transmettre aux "
+#~ "participants de cette conversation ! Saisissez le via la page \"Mon compte"
+#~ "\"."
+
+#~ msgid "Nice try, but you can't do that!"
+#~ msgstr "Bien essayé, mais vous ne pouvez pas faire ça !"
+
+#~ msgid "You need to be logged in to read your messages"
+#~ msgstr "Vous devez être connecté pour lire vos messages"
+
+#~ msgid "The requested thread or message seems not to exists."
+#~ msgstr "La conversation demandée ne semble pas exister."

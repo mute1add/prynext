@@ -1,0 +1,44 @@
+{
+    "name": "madhouse/availability",
+    "description": "This plugin extends items with custom attributes to store dates of availability",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "MADHOUSE",
+            "email": "contact.wearemadhouse@gmail.com"
+        }
+    ],
+    "config": {
+       "vendor-dir": "vendor/composer_components"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@bitbucket.org:muchmuch/madhouse_autoloader.git"
+        },
+        {
+            "type": "git",
+            "url": "git@bitbucket.org:muchmuch/madhouse_utils.git"
+        }
+    ],
+    "require": {
+        "madhouse/autoloader": "1.00",
+        "madhouse/utils": "1.20"
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "bower install"
+        ],
+        "post-update-cmd": [
+            "bower install"
+        ]
+    },
+    "autoload": {
+        "psr-0": {
+            "Madhouse_Availability_": "classes/"
+        },
+        "files": [
+            "helpers/hAvailability.php"
+        ]
+    }
+}

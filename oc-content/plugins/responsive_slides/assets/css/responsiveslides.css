@@ -1,0 +1,112 @@
+/* http://responsiveslides.com v1.55 by @viljamis 
+modified by Frinweb.com */
+
+#slides{
+  clear: both;
+  margin: 0 auto;
+  position: relative;
+  z-index: 999;
+}
+.rslides_container {
+  position: relative;
+  width: 100%;
+}
+.rslides {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0 auto;
+}
+.rslides li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+}
+.rslides img {
+  display: block;
+  float: left;
+  width: 100%;
+  border: 0;
+}
+.rslides_nav {
+  z-index: 9999;
+  position: absolute;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  top: 50%;
+  left: 0;
+  text-indent: -9999px;
+  overflow: hidden;
+  text-decoration: none;
+  height: 48px;
+  width: 48px;
+  background: transparent url("../images/arrows_2.png") no-repeat left top;
+  margin-top: -45px;
+}
+.rslides_nav.next {
+  left: auto;
+  background-position: right top;
+  right: 0;
+}
+.rslides_nav.next:hover {
+  background-position: right bottom;
+}
+.rslides_nav.prev:hover {
+  background-position: left bottom;
+}
+/** Pager Style **/
+.rslides_tabs {
+  list-style: none;
+  text-align: center;
+  margin: 0;
+  padding: 10px 0;
+  overflow: auto;
+}
+.rslides_tabs li {
+  display: inline-block;
+}
+.rslides_tabs li a {
+  text-indent: -9999px;
+  overflow: hidden;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  background: #ccc;
+  background: rgba(0,0,0, .2);
+  display: inline-block;
+  _display: block;
+  *display: block;
+  -webkit-box-shadow: inset 0 0 2px 0 rgba(0,0,0,.3);
+  -moz-box-shadow: inset 0 0 2px 0 rgba(0,0,0,.3);
+  box-shadow: inset 0 0 2px 0 rgba(0,0,0,.3);
+  width: 9px;
+  height: 9px;
+  margin: 0 5px;
+}
+.rslides_tabs li.rslides_here a {
+  background: #333;
+}
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.6);
+    bottom: 0;
+    color: #FFFFFF;
+    display: block;
+    left: 0;
+    margin: 0;
+    max-width: none;
+    padding: 10px 20px;
+    position: absolute;
+    right: 0;
+    text-shadow: none;
+    z-index: 2;
+}

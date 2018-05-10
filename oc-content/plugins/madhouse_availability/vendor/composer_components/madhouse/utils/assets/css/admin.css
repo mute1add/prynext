@@ -1,0 +1,22 @@
+/*
+ * Admin menu.
+ */
+
+#menu_madhouse .ico-madhouse {
+    background-image: url("../img/admin-icons.png") !important;
+    background-size: 100px 93px;
+    background-position: -48px -0px;
+}
+
+#menu_madhouse.hover .ico-madhouse {
+    background-position: -0px -0px;
+}
+
+body.compact #menu_madhouse .ico-madhouse {
+    background-position: -35px -48px;
+}
+
+body.compact #menu_madhouse.hover .ico-madhouse {
+    background-position: -0px -48px;
+}
+

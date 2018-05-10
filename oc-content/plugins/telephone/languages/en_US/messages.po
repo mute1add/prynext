@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Telephone\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-28 11:17+0100\n"
+"PO-Revision-Date: 2016-01-18 11:03+0200\n"
+"Last-Translator: Puiu Calin <calin@calinbehtuk.ro>\n"
+"Language-Team: Puiu Calin <theme.calinbehtuk.ro>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-SearchPath-0: /Applications/XAMPP/xamppfiles/htdocs/osclass-plugins\n"
+
+msgid "Telephone Help"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Follow"
+msgstr ""
+
+msgid "Help us to keep this free"
+msgstr ""
+
+msgid "This plugin allow you to display a phone field in publish/edit page, in what area you want on this page. Custom fields are displayed all in the same area, but this plugin give you the option to display the phone field in different part of the page."
+msgstr ""
+
+msgid "For using this plugin you have to insert this line in item post page and item edit page, in the area you want this field to appear"
+msgstr ""
+
+msgid "To display the number of telephone you have to insert this line in the item page in the are you want to show the number"
+msgstr ""
+
+msgid "2016 All rights reserved theme.calinbehtuk, telephone plugin by Puiu Calin"
+msgstr ""

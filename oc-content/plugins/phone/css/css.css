@@ -1,0 +1,19 @@
+.author {
+    float:left;
+    line-height:40px;
+    text-align:left;
+	font-size:20px;
+}
+.author .logo{float:left;}
+.author .text{float:left;margin-left:30px;
+              color: #777;
+              line-height:40px;
+}
+#settings_form pre{background: #fff;}
+.t_selector {display: inline-block;margin-top: 10px; border: 1px solid #B0EDF3;background: #fff;}
+.t_selector span{display:inline-block;float:left;padding:3px;font-weight:700;cursor:pointer;width:40px;text-align:center;}
+.t_selector #t_on{border-right: 1px solid #B0EDF3;}
+.t_selector.off #t_off{background: #0eafd2;color:#fff;box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);}
+.t_selector.on #t_on{background: #0eafd2;color:#fff;box-shadow: -2px 2px 5px rgba(0, 0, 0, 0.3);}
+.prem_p{display:block; margin-bottom:10px;text-align:center;}
+.prem_p a img{border:1px solid #F3F3F3;}

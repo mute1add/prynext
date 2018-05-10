@@ -1,0 +1,12 @@
+{
+    "name": "madhouse/autoloader",
+    "description": "Custom autoloader (composer-way) for Osclass plugins.",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "MADHOUSE",
+            "email": "contact.wearemadhouse@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,4 @@
+Terms  1.0.3
+-------------------------------
+Changes in admin panel.
+Target _blank on terms link.

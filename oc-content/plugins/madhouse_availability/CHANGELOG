@@ -1,0 +1,38 @@
+1.1.0	/ Apr. 2016
+		Support for madhouse_booking + update search logic.
+
+		[+] Support for madhouse_booking added.
+			Madhouse Booking uses availability dates set in this plugin to compute
+			periods when a booking can be created or not.
+
+		[*] Search logic has evolved to show more coherent search results.
+		[*] Upgrade process updated to match others madhouse plugins.
+
+		[!] Fix typo and strict warnings.
+
+		---
+
+1.0.2	/ Apr. 2016
+		Internal release for deployment process.
+
+		[*] Switch to SSH for Composer.
+
+		---
+
+1.01	/ Feb. 2015
+		First public version. Mainly market/composer packaging.
+
+		[+] Using Composer/Bower, 'bump_me' patch
+			- depends now on utils-1.20
+			- depends now on autoloader-1.00
+		[+] Market patch
+			- Plugin update URI
+			- Plugin URI to link to our website.
+		[*] Improved settings page
+			- Some documentation and links to our website.
+			- Using CSSR framework.
+		[!] Fix. for default theme
+			(bug fix on name attribute mainly)
+
+1.00	/ Nov. 2014
+		First release.

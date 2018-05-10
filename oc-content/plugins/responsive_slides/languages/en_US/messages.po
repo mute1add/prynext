@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ResponsiveSlides Osclass Plugin\n"
+"POT-Creation-Date: 2016-12-20 13:05+0100\n"
+"PO-Revision-Date: 2016-12-20 13:05+0100\n"
+"Last-Translator: \n"
+"Language-Team: FrinWeb <frinweb@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/create.php:19 admin/create.php:50 admin/edit.php:66
+msgid "The slider has been updated."
+msgstr ""
+
+#: admin/create.php:27 admin/create.php:58 admin/edit.php:42 admin/edit.php:74
+msgid "There was an error uploading the file, please try again!"
+msgstr ""
+
+#: admin/create.php:35 admin/edit.php:50
+msgid "File type not allowed, Allowed file: *.jpg,*.jpeg,*.png,*.gif"
+msgstr ""
+
+#: admin/create.php:67 admin/edit.php:84 admin/help.php:4 admin/list.php:4
+#: admin/settings.php:81
+msgid "Create"
+msgstr ""
+
+#: admin/create.php:68 admin/edit.php:85 admin/help.php:5 admin/list.php:5
+#: admin/settings.php:82
+msgid "Manage"
+msgstr ""
+
+#: admin/create.php:69 admin/edit.php:86 admin/help.php:6 admin/list.php:6
+#: admin/settings.php:83 admin/settings.php:89 index.php:63
+msgid "Settings"
+msgstr ""
+
+#: admin/create.php:70 admin/edit.php:87 admin/help.php:7 admin/help.php:11
+#: admin/list.php:7 admin/settings.php:84 index.php:64
+msgid "Help"
+msgstr ""
+
+#: admin/create.php:74
+msgid "Add Slide"
+msgstr ""
+
+#: admin/create.php:84
+msgid "Image"
+msgstr ""
+
+#: admin/create.php:91 admin/list.php:19 admin/settings.php:134
+msgid "Caption"
+msgstr ""
+
+#: admin/create.php:93
+msgid "Enter caption"
+msgstr ""
+
+#: admin/create.php:97 admin/list.php:20
+msgid "Description"
+msgstr ""
+
+#: admin/create.php:99
+msgid "Enter description"
+msgstr ""
+
+#: admin/create.php:103 admin/list.php:21 admin/settings.php:143
+msgid "Link to URL"
+msgstr ""
+
+#: admin/create.php:105
+msgid "http://www.example.com"
+msgstr ""
+
+#: admin/create.php:111 admin/edit.php:154 admin/settings.php:193
+msgid "Save changes"
+msgstr ""
+
+#: admin/edit.php:13
+msgid "The slide has been deleted."
+msgstr ""
+
+#: admin/edit.php:34
+msgid "The slide has been updated."
+msgstr ""
+
+#: admin/edit.php:91
+msgid "Update Slide"
+msgstr ""
+
+#: admin/edit.php:102
+msgid "Upload image"
+msgstr ""
+
+#: admin/edit.php:109
+msgid "OR"
+msgstr ""
+
+#: admin/edit.php:112
+msgid "Select a image:"
+msgstr ""
+
+#: admin/edit.php:118 admin/list.php:16
+msgid "ID"
+msgstr ""
+
+#: admin/help.php:13
+msgid "What is ResponsiveSlides?"
+msgstr ""
+
+#: admin/help.php:16
+msgid "How to use?"
+msgstr ""
+
+#: admin/help.php:19
+msgid "Credits"
+msgstr ""
+
+#: admin/help.php:20
+msgid "and"
+msgstr ""
+
+#: admin/list.php:12 index.php:62
+msgid "Manage Slides"
+msgstr ""
+
+#: admin/list.php:17
+msgid "File"
+msgstr ""
+
+#: admin/list.php:18
+msgid "Action"
+msgstr ""
+
+#: admin/list.php:36
+msgid "Edit"
+msgstr ""
+
+#: admin/list.php:37
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr ""
+
+#: admin/list.php:37
+msgid "Delete"
+msgstr ""
+
+#: admin/settings.php:73
+msgid "Settings Saved"
+msgstr ""
+
+#: admin/settings.php:98
+msgid "Background Color"
+msgstr ""
+
+#: admin/settings.php:100 admin/settings.php:106
+msgid "Default #FFFFFF"
+msgstr ""
+
+#: admin/settings.php:104
+msgid "Border Color"
+msgstr ""
+
+#: admin/settings.php:110
+msgid "Border Width"
+msgstr ""
+
+#: admin/settings.php:112
+msgid "Default 10"
+msgstr ""
+
+#: admin/settings.php:116
+msgid "Box Shadow Color"
+msgstr ""
+
+#: admin/settings.php:118
+msgid "Default #333333"
+msgstr ""
+
+#: admin/settings.php:122
+msgid "Width"
+msgstr ""
+
+#: admin/settings.php:124
+msgid "Set 0 for default full width"
+msgstr ""
+
+#: admin/settings.php:128
+msgid "Height"
+msgstr ""
+
+#: admin/settings.php:130
+msgid "Set 0 for default full height"
+msgstr ""
+
+#: admin/settings.php:137 admin/settings.php:146 admin/settings.php:164
+#: admin/settings.php:173 admin/settings.php:182
+msgid "Enable"
+msgstr ""
+
+#: admin/settings.php:138 admin/settings.php:147 admin/settings.php:165
+#: admin/settings.php:174 admin/settings.php:183
+msgid "Disable"
+msgstr ""
+
+#: admin/settings.php:152
+msgid "Open Link in"
+msgstr ""
+
+#: admin/settings.php:155
+msgid "New Window"
+msgstr ""
+
+#: admin/settings.php:156
+msgid "Same Window"
+msgstr ""
+
+#: admin/settings.php:161
+msgid "Auto Slide"
+msgstr ""
+
+#: admin/settings.php:170
+msgid "Pager"
+msgstr ""
+
+#: admin/settings.php:179
+msgid "Navigation"
+msgstr ""
+
+#: admin/settings.php:188
+msgid "Speed"
+msgstr ""
+
+#: admin/settings.php:189
+msgid "Default 500"
+msgstr ""
+
+#: index.php:59
+msgid "Responsive Slides"
+msgstr ""
+
+#: index.php:61
+msgid "Create Slide"
+msgstr ""

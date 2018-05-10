@@ -1,0 +1,3 @@
+<?php if(get_category_icon(osc_category_id())) { ?>
+   <img src="<?php echo get_category_icon(osc_category_id()); ?>"/>
+<?php } ?>

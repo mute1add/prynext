@@ -1,0 +1,57 @@
+/*
+Copyright (C) 2016 Puiu Calin
+This program is a commercial software: is forbidden to use this software without licence, 
+on multiple installations, and by purchasing from other source than those authorized for the sale of software.
+Unauthorized copying of this file, via any medium is strictly prohibited
+*/
+/* 
+    Created on : May 3, 2016, 11:41:28 AM
+    Author     : CALIN
+*/
+
+.rights {display: block;
+         background: #F9F9F9;
+         padding: 10px;
+         border: 1px solid #D6FFFF;
+         line-height:20px;
+         margin-bottom:10px;
+         overflow: hidden;
+         box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.1);
+}
+.rights .author {
+    display: inline-block;
+    background: #EBF6F6;
+    border: 1px solid #D6FFFF;
+    width:100%;
+    margin-top:10px;
+}
+.rights .like{
+    width:320px;
+    display:inline-block;
+    float:left;
+    line-height:30px;
+    margin-left:15px;
+}
+.author {
+    float:right;
+    line-height:40px;
+    margin-top:80px;
+    text-align:right;
+}
+.author .logo{float:right;}
+.author .text{float:right;margin-left:30px;
+              color: #777;
+              line-height:40px;
+}
+#settings_form pre{background: #fff;}
+.t_selector {display: inline-block;margin-top: 10px; border: 1px solid #B0EDF3;background: #fff;}
+.t_selector span{display:inline-block;float:left;padding:3px;font-weight:700;cursor:pointer;width:40px;text-align:center;}
+.t_selector #t_on{border-right: 1px solid #B0EDF3;}
+.t_selector.off #t_off{background: #009688;color:#fff;box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);}
+.t_selector.on #t_on{background: #009688;color:#fff;box-shadow: -2px 2px 5px rgba(0, 0, 0, 0.3);}
+.prem_p{display:block; margin-bottom:10px;text-align:center;}
+.prem_p a img{border:1px solid #F3F3F3;}
+@media only screen and (max-width: 1100px){
+
+    .author{width:450px;} 
+}

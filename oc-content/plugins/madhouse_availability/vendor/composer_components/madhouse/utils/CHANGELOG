@@ -1,0 +1,68 @@
+1.20 	/ Feb. 2015
+		Support for new 'conventions' for market, bug fixes & windows
+
+		[*] Support new helpers for Madhouse Avatar 1.40
+		[!] Support for Windows paths.
+		[!] Fixes PHP strict warnings.
+			- mdh_error_log / mdh_current_plugin_name: problems with the stacktrace
+			- Controllers::doSettingsPost: problems with absent parameters (checkboxes mainly)
+
+1.18	/ Dec. 2014
+		Second public release.
+		Utils is not an Osclass plugin anymore.
+
+		[+] Uses composer to manage dependency to Utils (see composer.json).
+		[+] New ::doSettingsPost() function to make a settings page in a second.
+		[+] New collections utilities :
+			- getFieldsFromList($list, $field), giving a list of Array<String, Any> and a $field, returns a list of Array<Any> (values for $field within each Array).
+			- sortListByField($list, $field), giving a list of Array<String, Any> and a $field, returns a sorted by this $field array.
+			- findByField($list, $field, $value), giving a list of Array<String, Any>, a $field and a $value, returns the element where value is $value for $field.
+		[+] New hooks added to the mdh_helpers_loop helper.
+			Useful for exporting other things related to the current element in the loop.
+		[+] New _Models::extendData() function to make translations easy.
+		[+] Shortcut helper : mdh_get_preference(), gets a preference from the current preference section.
+		[*] New emails utilities.
+			- Not necessary to create a class anymore.
+			- Install and uninstall work with slug now.
+			- New ::send() utility with lots of hooks / filters to make it easier to customize.
+		[*] Madhouse_Item addtions / modifications for expiration/premium and toArray().
+		[*] Madhouse_Utils_Text::truncate(), takes a new argument $oneline to tell if the truncate needs to stop at the first line feed even if the first line is shorter than $max character.
+		[*] Admin icon is now retina-compatible.
+
+1.17	/ Jun. 2014
+		Minor release for MoreEdit plugin.
+
+1.16 	/ Jun. 2014
+		Performance enhancements relative to SQL queries.
+
+		[+] New classes : Madhouse_EntitiesManager and Madhouse_UsersManager.
+			Madhouse_UsersManager limits SQL queries by storing some results and serves it directly without making the same SQL query if not needed (if a user has already been retrieved before).
+			Needed by Madhouse Messenger - v1.24
+		[*] Madhouse_Utils_Models::findByField() uses the optional parameters of Madhouse_Utils_Models::get().
+			Needed by our homemade Facebook plugin.
+		[!] Function mdh_plugin_is_ready() was missing a '$' on a var.
+
+1.15	/ Apr. 2014
+		Small fixes relative to PHP 5.3.
+
+		[*] Mustache.js is minified and not enqueued anymore by Madhouse Utils.
+			Just registered. Up to you to enqueue it where you need it.
+		[!] Fix for PHP 5.3 when E_STRICT is enabled.
+			Function array_shift(array_map()) was triggering a FATAL error.
+
+1.14	/ Mar. 2014
+		Pretty important version for Osclass 3.3 and Madhouse Messenger 1.22.
+
+		[+] New utilities for SQL queries.
+		[+] New exceptions classes to handle error cases in plugins controllers.
+		[+] New utilities for routes.
+			Old utilities Madhouse_Utils_Controllers::doView() and Madhouse_Utils_Controllers::doViewPart() are deprecated. Use only if you use Osclass 3.2 and prior.
+		[!] Fix to always return a lowercase username in Madhouse_User.
+
+1.12    / Dec. 2013
+        First public release. Support for Madhouse Messenger mainly.
+
+        [+] New helpers to make loops on exported vars.
+        [+] New helpers mdh_current_*
+        [+] New classes Madhouse_Utils_Controllers to handle views and redirections in plugins controllers.
+        [+] Madhouse Utils is now under Apache License.

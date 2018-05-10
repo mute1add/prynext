@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-11-05 23:08+0100\n"
+"PO-Revision-Date: 2016-11-05 23:08+0100\n"
+"Last-Translator: \n"
+"Language-Team: Liath <amfearliath@gmx.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_\n"
+"X-Poedit-SearchPath-0: index.php\n"
+"X-Poedit-SearchPath-1: help.php\n"
+"X-Poedit-SearchPath-2: classes/tis.class.php\n"
+
+#: classes/tis.class.php:133
+msgid "No longer available"
+msgstr "Nicht mehr verfügbar"
+
+#: classes/tis.class.php:144
+msgid "Mark as available"
+msgstr "Als verfügbar markieren"
+
+#: classes/tis.class.php:148
+msgid "Mark as sold"
+msgstr "Als verkauft markieren"
+
+#: help.php:18
+msgid "Toggle Item Status"
+msgstr "Toggle Item Status"
+
+#: help.php:19
+msgid "This plugin allows the user, to set the items to sold or available"
+msgstr ""
+"Dieses Plugin erlaubt es den Benutzern, ihre Angebote als verkauft oder "
+"wieder verfügbar zu markieren."
+
+#: help.php:23
+msgid "Toggle button"
+msgstr "Togglebutton"
+
+#: help.php:24
+msgid ""
+"To display the toggle button, place this code anywhere you want (e.g. in "
+"item.php of your theme)"
+msgstr ""
+"Um den Togglebutton anzuzeigen, platziere diesen Code wo Du möchtest (z.B. "
+"in item.php von deinem Theme)"
+
+#: help.php:27
+msgid "I have placed it right next to the edit button, e.g."
+msgstr "Ich habe ihn direkt neben dem Edit-Button platziert, z.B."
+
+#: help.php:37
+msgid "Status box"
+msgstr "Statusbox"
+
+#: help.php:38
+msgid ""
+"You should insert a status box to the item page with this code (e.g. in item."
+"php of your theme)"
+msgstr ""
+"Du solltest mit diesem Code eine Statusbox auf der Angebotsseite einfügen (z."
+"B. in item.php von deinem Theme)"
+
+#: help.php:41
+msgid "I have placed it right above the title, e.g."
+msgstr "Ich habe sie direkt über dem Titel platziert, z.B."
+
+#: help.php:49
+msgid "Styling"
+msgstr "Aussehen"
+
+#: help.php:50
+msgid "To style the button or the status box, edit the following file"
+msgstr "Um den Button oder die Statusbox zu designen, bearbeite folgende Datei"
+
+#: help.php:55
+msgid "Item is sold, status box is shown"
+msgstr "Angebot ist verkauft, Statusbox wird angezeigt"
+
+#: help.php:59
+msgid "Item is available, no status box is shown"
+msgstr "Angebot ist verfügbar, Statusbox wird nicht gezeigt"
+
+#~ msgid "Installation"
+#~ msgstr "Installation"
+
+#~ msgid ""
+#~ "To display the Togglebutton, place this code anywhere you want (e.g. in "
+#~ "item.php of your theme)"
+#~ msgstr ""
+#~ "Um den Togglebutton anzuzeigen, platziere diesen Code dort wo Du ihn "
+#~ "haben möchtest (z.B. in item.php von deinem Theme)"
+
+#~ msgid "Sold"
+#~ msgstr "Verkauft"
+
+#~ msgid ""
+#~ "To display the Togglebutton, place this code anywhere you want (e.g. in "
+#~ "items.php of your theme)"
+#~ msgstr ""
+#~ "Um den Button zum wechseln anzuzeigen, füge folgenden Code ein wo Du "
+#~ "möchtest (z.B. in der items.php in Deinem Template)"
+
+#~ msgid ""
+#~ "You can display a prefix to the item title with this code (e.g. in items."
+#~ "php of your theme)"
+#~ msgstr ""
+#~ "Du kannst mit diesem Code einen Präfix vor den Titel setzen (z.B. in der "
+#~ "items.php in Deinem Template)"
+
+#~ msgid "To style the Button, edit the following file"
+#~ msgstr "Um das Aussehen des Buttons zu bestimmen, passe folgende Datei an"

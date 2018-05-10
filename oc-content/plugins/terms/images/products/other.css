@@ -1,0 +1,19 @@
+/*
+Copyright (C) 2016 Puiu Calin
+This program is a commercial software: is forbidden to use this software without licence, 
+on multiple installations, and by purchasing from other source than those authorized for the sale of software.
+Unauthorized copying of this file, via any medium is strictly prohibited
+*/
+/* 
+    Created on : May 3, 2016, 10:23:25 AM
+    Author     : CALIN
+*/
+
+.other_products{display:block;margin-top:30px;-moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;float:left;width:362px;border:1px solid #C7F1FF ;padding:10px;}
+.other_products h4{border-bottom:1px solid #ddd;padding-bottom:5px;margin:10px;}
+.other_products ul{display:block;margin-top:5px;padding:0px;}
+.other_products a{display:inline-block; width:23%;margin:1%;float:left;border: 1px solid #F0F0F0;-moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;}
+.other_products a:hover{box-shadow: 0px 0px 4px rgba(52, 50, 50, 0.15);}
+.other_products a img{width:100%;height:60px;border-bottom:1px solid #bbb;}
+.other_products a span{display:block;margin-top:5px;text-align:center;height:35px;font-size:13px;}
+.author{margin-top:80px;}

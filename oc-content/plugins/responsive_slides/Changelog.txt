@@ -1,0 +1,17 @@
+Responsive Slides Osclass Plugin
+www.frinweb.com
+*****************************
+Version 1.5.1 - 20/12/2016
+---------------------------------------
+- Short name changed for language
+
+Version 1.5.0 - 20/12/2016
+---------------------------------------
+- Full modified code to support latest version of oclass.
+- For official osclass market.
+
+Version 1.0.0 - Unknown date
+---------------------------------------
+- Initial release from author Rajasekar
+
+

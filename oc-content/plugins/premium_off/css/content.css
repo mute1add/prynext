@@ -1,0 +1,55 @@
+/*
+Copyright (C) 2016 Puiu Calin
+This program is a commercial software: is forbidden to use this software without licence, 
+on multiple installations, and by purchasing from other source than those authorized for the sale of software.
+Unauthorized copying of this file, via any medium is strictly prohibited
+*/
+/* 
+    Created on : Jun 26, 2016, 11:00:26 AM
+    Author     : CALIN
+*/
+.p_content{display:block;padding:10px;border:1px solid #F8F8F8;margin-bottom:10px;}
+.p_content a{text-decoration:none !important;}
+.p_content .individual_content{display:inline-block;width:19%;border:1px solid #EBF9F9;-moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;margin: 0.2%;cursor:pointer;position:relative;}
+.p_content .individual_content:hover{box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.1);}
+.p_content .individual_content .p_image{display:block;border-bottom:1px solid #ddd;text-align:center;margin-bottom:4px;}
+.p_content .individual_content .p_image img{width:145px;height:120px}
+.p_content .individual_content .p_title{text-align:center;padding:5px;}
+.p_content .individual_content .p_description{background: rgba(254, 254, 254, 0.95);padding: 4px;border-top: 1px solid #bbb;display:none;position:absolute;bottom:0px;left:0px;width:100%;-webkit-box-sizing: border-box; box-sizing: border-box;color:#000;}
+
+.rights {display: block;
+         background: #F9F9F9;
+         padding: 10px;
+         border: 1px solid #D6FFFF;
+         line-height:20px;
+         margin-bottom:10px;
+         overflow: hidden;
+         box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.1);
+}
+.rights .author {
+    display: inline-block;
+    background: #EBF6F6;
+    border: 1px solid #D6FFFF;
+    width:100%;
+    margin-top:10px;
+}
+.rights .like{
+    width:320px;
+    display:inline-block;
+    float:left;
+    line-height:30px;
+    margin-left:15px;
+}
+.author {
+    float:right;
+    line-height:40px;
+    margin-top:80px;
+    text-align:right;
+}
+.author .logo{float:right;}
+.author .text{float:right;margin-left:30px;
+              color: #777;
+              line-height:40px;
+}
+
+

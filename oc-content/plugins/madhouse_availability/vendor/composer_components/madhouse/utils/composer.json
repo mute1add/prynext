@@ -1,0 +1,22 @@
+{
+    "name": "madhouse/utils",
+    "description": "Toolkit for Osclass plugins & themes, designed by Madhouse.",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "MADHOUSE",
+            "email": "contact.wearemadhouse@gmail.com"
+        }
+    ],
+    "require": {
+        "mustache/mustache": "2.7"
+    },
+    "autoload": {
+    	"psr-0": {
+    	    "Madhouse": "classes/"
+    	},
+    	"files": [
+    	    "index.php"
+    	]
+    }
+}

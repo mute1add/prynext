@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Madhouse Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-04 14:29+0100\n"
+"PO-Revision-Date: 2013-12-04 14:29+0100\n"
+"Last-Translator: Madhouse\n"
+"Language-Team: Madhouse\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6\n"
+"X-Poedit-SearchPath-0: /Users/romain/Sites/autroisieme/oc-content/plugins/"
+"madhouse_utils\n"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/classes/Madhouse/Utils/Dates.php:7
+msgid "No date provided !"
+msgstr "Aucune date fournie !"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/classes/Madhouse/Utils/Dates.php:15
+msgid "just now"
+msgstr "à l'instant"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/classes/Madhouse/Utils/Dates.php:18
+#, php-format
+msgid "%d second(s) ago"
+msgstr "il y a %d seconde(s)"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/classes/Madhouse/Utils/Dates.php:21
+#, php-format
+msgid "%d minute(s) ago"
+msgstr "il y a %d minute(s)"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/classes/Madhouse/Utils/Dates.php:24
+#, php-format
+msgid "%d hour(s) ago"
+msgstr "il y a %d heure(s)"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/classes/Madhouse/Utils/Dates.php:27
+#, php-format
+msgid "%d day(s) ago"
+msgstr "il y a %d jour(s)"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/classes/Madhouse/Utils/Dates.php:30
+#, php-format
+msgid "%d month(s) ago"
+msgstr "il y a %d mois"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/classes/Madhouse/Utils/Dates.php:33
+#, php-format
+msgid "%d year(s) ago"
+msgstr "il y a %d an(s)"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/helpers/hUtils.php:9
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/helpers/hUtils.php:22
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/helpers/hUtils.php:35
+msgid "Oops! We got confused at some point. Try to refresh the page."
+msgstr ""
+"Oups ! Nous ne pouvons par répondre à votre requête. Essayez de rafraîchir "
+"la page."
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/helpers/hUtils.php:99
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/helpers/hUtils.php:100
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/helpers/hUtils.php:101
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_utils/helpers/hUtils.php:102
+#, php-format
+msgid "%d Listings"
+msgstr "%d Annonces"
+
+#~ msgid "This message has been deleted."
+#~ msgstr "Ce message a été supprimé."
+
+#~ msgid "Waiting"
+#~ msgstr "En attente"
+
+#~ msgid "Processing"
+#~ msgstr "En discussion"
+
+#~ msgid "Appoint. scheduled"
+#~ msgstr "RDV planifié"
+
+#~ msgid "Accepted"
+#~ msgstr "Accepté"
+
+#~ msgid "Refused"
+#~ msgstr "Refusé"
+
+#~ msgid "The requested message seems not to exists."
+#~ msgstr "Le message demandé ne semble pas exister."
+
+#~ msgid "Can't send an empty message."
+#~ msgstr "Il est impossible d'envoyer un message vide"
+
+#~ msgid "We've successfully sent your message."
+#~ msgstr "Le message a bien été envoyé."
+
+#~ msgid ""
+#~ "You did not give us your phone, therefore we can't sent it to others! "
+#~ "Head back to your account to fill your profile in."
+#~ msgstr ""
+#~ "Votre téléphone est vide, nous ne pouvons donc pas le transmettre aux "
+#~ "participants de cette conversation ! Saisissez le via la page \"Mon compte"
+#~ "\"."
+
+#~ msgid "Nice try, but you can't do that!"
+#~ msgstr "Bien essayé, mais vous ne pouvez pas faire ça !"
+
+#~ msgid "You need to be logged in to read your messages"
+#~ msgstr "Vous devez être connecté pour lire vos messages"
+
+#~ msgid "The requested thread or message seems not to exists."
+#~ msgstr "La conversation demandée ne semble pas exister."

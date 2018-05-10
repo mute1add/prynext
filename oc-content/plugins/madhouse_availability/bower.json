@@ -1,0 +1,20 @@
+{
+  "name": "madhouse_availability",
+  "authors": [
+    "MADHOUSE <contact.wearemadhouse@gmail.com>"
+  ],
+  "description": "This plugin extends items with custom attributes to store dates of availability",
+  "main": "index.php",
+  "license": "Apache-2.0",
+  "homepage": "http://wearemadhouse.wordpress.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cssr": "git@bitbucket.org:muchmuch/cssr.git#1.01"
+  }
+}

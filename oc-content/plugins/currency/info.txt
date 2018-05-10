@@ -1,0 +1,17 @@
+Just install the plugin and you will have the filter in the search sidebar using the search form hook.
+
+If you want to include the selector manual in other area from your search sidebar, just comment this line from index.php:
+osc_add_hook('search_form', 'currency_c_selector');
+
+Using this function you can include the selector in another area:
+<?php currency_c_selector(); ?>
+
+Make sure that the line is included in the search form.
+
+Enjoy!
+
+Issues: http://theme.calinbehtuk.ro/?page_id=136
+Translate: 
+https://doc.osclass.org/Translating_and_editing_language_files_(.po_and_.mo)
+or 
+https://www.youtube.com/watch?v=5U8nb1YfeiM&t=37s (the video is an example for other plugin but the steps are the same)

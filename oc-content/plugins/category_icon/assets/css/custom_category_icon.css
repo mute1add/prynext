@@ -1,0 +1,41 @@
+.category_icon_box img{
+    max-width: 50px;
+}
+.category_icon_box table tr:hover{
+    background: rgba(241, 196, 17, 0.1);
+}
+.category_icon_box table tr th{
+    padding: 6px;
+    font-size: 1.1em;
+    background: #e0e0e0;
+    border-color: #c9c9c9;
+}
+.category_icon_box .select-box{
+    display: inline-block;
+}
+
+.category_icon_box table tr td i{
+    line-height: 30px;
+    font-size: 1.1em;
+}
+
+.category_icon_add_box{
+    display: block;
+    margin-bottom: 15px;
+    overflow: hidden;
+}
+
+.category_icon_add_box .left,
+.category_icon_add_box .right{
+    width: 45%;
+    float: left;
+    padding: 10px 30px;
+}
+
+.category_icon_add_box .left{
+    background: rgba(255, 172, 52, 0.22);
+    padding-top: 15px;
+}
+.category_icon_add_box .right h2{
+    margin: 0;
+}

@@ -1,0 +1,3 @@
+Debug  1.0.1
+-------------------------------
+Split the debug file in multiple pages for fast load.

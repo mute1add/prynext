@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Russian Map\n"
+"POT-Creation-Date: 2016-04-18 05:26+0300\n"
+"PO-Revision-Date: 2016-04-18 05:26+0300\n"
+"Last-Translator: Dis <disruptive555@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: help.php:18
+msgid "Help"
+msgstr ""
+
+#: help.php:21
+msgid ""
+"Map size you can configure in map_ru.php 86 line. Default size :width: "
+"960px; height: 500px"
+msgstr ""
+
+#: help.php:24
+msgid ""
+"Color you can set in 19 line: colorRegion = '#14A7D1' - color of regions. In "
+"code exist comments for Help."
+msgstr ""
+
+#: help.php:27
+msgid "Insert in you theme file, for example in main.php this code:"
+msgstr ""
+
+#: help.php:38
+msgid "Premium themes and plugins:"
+msgstr ""
+
+#: help.php:38
+msgid "osclass-pro.com"
+msgstr ""
+
+#: help.php:41
+msgid "Russian Osclass forum:"
+msgstr ""
+
+#: index.php:23
+msgid "Russian map help"
+msgstr ""

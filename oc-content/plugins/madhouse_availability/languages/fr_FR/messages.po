@@ -1,0 +1,806 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Madhouse Availability\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-19 18:23+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Madhouse <contact.wearemadhouse@gmail.com>\n"
+"Language-Team: Madhouse <contact.wearemadhouse@gmail.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SearchPath-0: /Users/romain/Sites/autroisieme/oc-content/plugins/"
+"madhouse_availability\n"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/index.php:19
+#, php-format
+msgid ""
+"You need to <strong>update</strong> madhouse utils by following <a href="
+"\"http://wearemadhouse.wordpress.com/portfolio/madhouse-utils/\">this link</"
+"a> to use madhouse availability. Sorry for the inconveniance ;).<br/"
+">Madhouse Utils <strong>minimum version : %.2f</strong>"
+msgstr ""
+"Vous devez <strong>mettre à jour</strong> madones_utils en suivant <a href="
+"\"http://wearemadhouse.wordpress.com/portfolio/madhouse-utils/\">ce lien</a> "
+"pour utiliser madhouse_availability. Désolé du dérangement. <br/>Madhouse "
+"Utils <strong>version minimum : %.2f</strong>"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/index.php:52
+msgid ""
+"You need to install madhouse utils by following <a href=\"http://"
+"wearemadhouse.wordpress.com/portfolio/madhouse-utils/\">this link</a> to use "
+"<strong>madhouse availability</strong>. Sorry for the inconveniance ;)"
+msgstr ""
+"Vous devez installer madhouse_utils en suivante <a href=\"http://"
+"wearemadhouse.wordpress.com/portfolio/madhouse-utils/\">ce lien</a> pour "
+"utiliser <strong>madhouse_availability</strong>. Désoler pour dérangement ;)"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/index.php:355
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/edit.php:1
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/search.php:2
+msgid "Availability"
+msgstr "Disponibilité"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/index.php:356
+msgid "Categories"
+msgstr "Catégories "
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/index.php:357
+msgid "Settings"
+msgstr "Paramètres"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/index.php:373
+msgid "Madhouse Availability"
+msgstr "Madhouse Availability"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:6
+msgid "Availability settings"
+msgstr "Paramètres de disponibilité"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:11
+msgid "End date"
+msgstr "Date de fin"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:14
+msgid "No"
+msgstr "Non"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:15
+msgid "Yes"
+msgstr "Oui"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:16
+msgid "Display a duration"
+msgstr "Afficher une durée"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:23
+msgid "Templates position"
+msgstr "Position des modèles"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:28
+msgid "Post"
+msgstr "Publication"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:32
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:44
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:56
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:68
+msgid "Don't display"
+msgstr "Ne pas afficher"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:40
+msgid "Edit"
+msgstr "Édition"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:52
+msgid "Detail"
+msgstr "Détail"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:64
+msgid "Search"
+msgstr "Recherche"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:77
+msgid "Save changes"
+msgstr "Sauvegarder"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/detail.php:1
+msgid "Availability:"
+msgstr "Disponibilité :"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/detail.php:5
+msgid "until"
+msgstr "jusqu'au"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/detail.php:10
+#, php-format
+msgid "%d day"
+msgstr "%d jour"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/detail.php:12
+#, php-format
+msgid "%d days"
+msgstr "%d jours"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/edit.php:12
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/search.php:6
+msgid "Start"
+msgstr "Début"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/edit.php:27
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/search.php:18
+msgid "End"
+msgstr "Fin"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/edit.php:33
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/search.php:24
+msgid "During"
+msgstr "Durée"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/edit.php:38
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/search.php:29
+msgid "Month"
+msgstr "Mois"
+
+#~ msgid "Display options"
+#~ msgstr "Options d'affichage"
+
+#~ msgid "Show"
+#~ msgstr "Afficher"
+
+#~ msgid "Hide"
+#~ msgstr "Cacher"
+
+#~ msgid "Post / Edit "
+#~ msgstr "Publication / Édition"
+
+#~ msgid "Tenant"
+#~ msgstr "Locataire"
+
+#~ msgid "Owner"
+#~ msgstr "Propriétaire"
+
+#~ msgid "Third Party"
+#~ msgstr "Autre"
+
+#~ msgid "Advertiser is an agency"
+#~ msgstr "L'annonceur est une agence"
+
+#~ msgid "Advertiser lives in"
+#~ msgstr "L'annonceur y habite"
+
+#~ msgid "Advertiser doesn't live in"
+#~ msgstr "L'annonceur n'y habite pas"
+
+#~ msgid "Housing benefit"
+#~ msgstr "APL possible"
+
+#~ msgid "No housing benefit (subletting)"
+#~ msgstr "Sans APL (sous-location)"
+
+#~ msgid "Not known"
+#~ msgstr "Non disponible"
+
+#~ msgid "Male"
+#~ msgstr "Masculin"
+
+#~ msgid "Males"
+#~ msgstr "Hommes"
+
+#~ msgid "Female"
+#~ msgstr "Femme"
+
+#~ msgid "Female(s)"
+#~ msgstr "Femme(s)"
+
+#~ msgid "Mixed"
+#~ msgstr "Mixte"
+
+#~ msgid "%d and %d"
+#~ msgstr "%d et %d"
+
+#~ msgid "Between %d and %d"
+#~ msgstr "Entre %d et %d"
+
+#~ msgid "Student"
+#~ msgstr "Étudiant"
+
+#~ msgid "Students"
+#~ msgstr "Étudiants"
+
+#~ msgid "Professionnal"
+#~ msgstr "Actif"
+
+#~ msgid "Professionnals"
+#~ msgstr "Actifs"
+
+#~ msgid "Professionnal and student"
+#~ msgstr "Étudiant et actif"
+
+#~ msgid "Professionnals and students"
+#~ msgstr "Étudiants et actifs"
+
+#~ msgid "Does not matter"
+#~ msgstr "Peu importe"
+
+#~ msgid "Professionnal or student"
+#~ msgstr "Étudiant ou actif"
+
+#~ msgid "House"
+#~ msgstr "Maison"
+
+#~ msgid "Flat"
+#~ msgstr "Appartement"
+
+#~ msgid "Old building"
+#~ msgstr "Bâtiment ancien"
+
+#~ msgid "Recent building"
+#~ msgstr "Bâtiment récent"
+
+#~ msgid "Shared room"
+#~ msgstr "Chambre commune"
+
+#~ msgid "Interconnecting rooms"
+#~ msgstr "Chambre traversante"
+
+#~ msgid "Furnished room"
+#~ msgstr "Chambre meublée"
+
+#~ msgid "Unfurnished room"
+#~ msgstr "Chambre non meublée"
+
+#~ msgid "Profesionnal"
+#~ msgstr "Actif"
+
+#~ msgid "Profesionnals"
+#~ msgstr "Actifs"
+
+#~ msgid "Owner type"
+#~ msgstr "Type de propriétaire"
+
+#~ msgid "Living in"
+#~ msgstr "J'y vie"
+
+#~ msgid "Charges"
+#~ msgstr "Charges"
+
+#~ msgid "Duration"
+#~ msgstr "Durée"
+
+#~ msgid "Gender"
+#~ msgstr "Sexe"
+
+#~ msgid "Minimum age"
+#~ msgstr "Age minimum"
+
+#~ msgid "Maximum age"
+#~ msgstr "Age maximum"
+
+#~ msgid "Couples"
+#~ msgstr "Couples"
+
+#~ msgid "Smokers"
+#~ msgstr "Fumeurs"
+
+#~ msgid "Animals"
+#~ msgstr "animaux"
+
+#~ msgid "Activities"
+#~ msgstr "Activités"
+
+#~ msgid "No matter"
+#~ msgstr "Peu importe"
+
+#~ msgid "Area"
+#~ msgstr "Surface"
+
+#~ msgid "Property type"
+#~ msgstr "Type de propriété"
+
+#~ msgid "Old property"
+#~ msgstr "Immeuble ancien"
+
+#~ msgid "Number flatshare"
+#~ msgstr "Nombre de colocataire"
+
+#~ msgid "Number rooms"
+#~ msgstr "Nombre de pièce"
+
+#~ msgid "Number free rooms"
+#~ msgstr "Nombre de pièce libre"
+
+#~ msgid "Number bathrooms"
+#~ msgstr "Nombre de salle de bain"
+
+#~ msgid "Room type"
+#~ msgstr "Type de chambre"
+
+#~ msgid "Living room"
+#~ msgstr "Salon"
+
+#~ msgid "Balcony"
+#~ msgstr "Balcon"
+
+#~ msgid "Garden"
+#~ msgstr "Jardin"
+
+#~ msgid "Park"
+#~ msgstr "Parking"
+
+#~ msgid "Equipped kitchen"
+#~ msgstr "Cuisine équipée"
+
+#~ msgid "Bath"
+#~ msgstr "Baignoire"
+
+#~ msgid "Washing machine"
+#~ msgstr "Machine à laver"
+
+#~ msgid "Elevator"
+#~ msgstr "Ascenseur"
+
+#~ msgid "Internet"
+#~ msgstr "Internet"
+
+#~ msgid "Television"
+#~ msgstr "Télévision"
+
+#~ msgid "Informations"
+#~ msgstr "Informations"
+
+#~ msgid "roomates (total)"
+#~ msgstr "colocataires (total)"
+
+#~ msgid "Available on"
+#~ msgstr "Disponible le"
+
+#~ msgid "Available now"
+#~ msgstr "Disponible dès maintenant"
+
+#~ msgid "For an unlimited period of time"
+#~ msgstr "Sans durée limite"
+
+#~ msgid "Heads up!"
+#~ msgstr "À noter !"
+
+#~ msgid "Accomodation"
+#~ msgstr "Le logement"
+
+#~ msgid "Available bedrooms"
+#~ msgstr "Chambres libres"
+
+#~ msgid "Bedrooms"
+#~ msgstr "Chambres"
+
+#~ msgid "Bathrooms"
+#~ msgstr "Salles de bain"
+
+#~ msgid "of"
+#~ msgstr "de"
+
+#~ msgid "Description"
+#~ msgstr "Description"
+
+#~ msgid "Flatmates"
+#~ msgstr "Colocataires"
+
+#~ msgid "wants..."
+#~ msgstr "recherchent…"
+
+#~ msgid "Age"
+#~ msgstr "Âge"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Couple"
+#~ msgstr "Couple"
+
+#~ msgid "Pets"
+#~ msgstr "Animaux"
+
+#~ msgid "Amenities"
+#~ msgstr "Équipements"
+
+#~ msgid "Enter a date in the following format : YYYY-DD-MM."
+#~ msgstr "Veuillez entrer une date au format AAAA-MM-JJ."
+
+#~ msgid "Select your status"
+#~ msgstr "Sélectionner votre statut"
+
+#~ msgid "Enter the amount of rental charges"
+#~ msgstr "Saisissez le montant des charges locatives"
+
+#~ msgid "Only numbers allowed"
+#~ msgstr "Nombres uniquement"
+
+#~ msgid "Select the accommodation availability date"
+#~ msgstr "Sélectionner la date de disponibilité du logement"
+
+#~ msgid "Select a duration"
+#~ msgstr "Sélectionner une durée"
+
+#~ msgid "Enter the accommodation surface area"
+#~ msgstr "Saisissez la surface habitable"
+
+#~ msgid "Enter a value less or equal to {0}"
+#~ msgstr "Veuillez entrer une valeur inférieure ou égale"
+
+#~ msgid "Select the accommodation type"
+#~ msgstr "Sélectionner le type du logement"
+
+#~ msgid "Select the total number of roommates"
+#~ msgstr "Veuillez entrer un nombre total de colocataires"
+
+#~ msgid "Select the total number of bedrooms"
+#~ msgstr "Veuillez entrer le nombre total de chambres"
+
+#~ msgid "Select the total number of available bedrooms"
+#~ msgstr "Nombre de chambres libres"
+
+#~ msgid "Select the total number of bathrooms"
+#~ msgstr "Sélectionner le nombre total de salles de bain"
+
+#~ msgid "Select a gender"
+#~ msgstr "Sélectionner un sexe"
+
+#~ msgid ""
+#~ "When and for how long is the accommodation available ? Is it just for "
+#~ "holidays ?"
+#~ msgstr ""
+#~ "À partir de quand et pour quelle durée cherchez vous un(e) colocataire ? "
+#~ "Est-ce seulement pour les vacances ?"
+
+#~ msgid "for"
+#~ msgstr "pour"
+
+#~ msgid "Maximum 1 month"
+#~ msgstr "Maximum 1 mois"
+
+#~ msgid "Maximum 2 month"
+#~ msgstr "Maximum 2 mois"
+
+#~ msgid "Maximum 3 month"
+#~ msgstr "Maximum 3 mois"
+
+#~ msgid "Maximum 6 month"
+#~ msgstr "Maximum 6 mois"
+
+#~ msgid "Maximum 12 month"
+#~ msgstr "Maximum 12 mois"
+
+#~ msgid "No limit"
+#~ msgstr "Pas de limite"
+
+#~ msgid "The accommodation"
+#~ msgstr "Le logement"
+
+#~ msgid "What does the accommodation looks like ?"
+#~ msgstr "Toutes les caractéristiques du logement"
+
+#~ msgid "This property is eligible for housing benefits applicants"
+#~ msgstr "Les colocataires peuvent prétendre à l’Aide Pour le Logement"
+
+#~ msgid "Surface area"
+#~ msgstr "Surface habitable"
+
+#~ msgid "Select a property type"
+#~ msgstr "Sélectionner un type de propriété"
+
+#~ msgid "Maximum number of flatmates"
+#~ msgstr "Nombre maximum de colocataires"
+
+#~ msgid "Select a number"
+#~ msgstr "Sélectionner un nombre"
+
+#~ msgid "Number of bedrooms"
+#~ msgstr "Nombre de chambres"
+
+#~ msgid "Number of available bedrooms"
+#~ msgstr "Nombre de chambres libres"
+
+#~ msgid "Number of bathrooms"
+#~ msgstr "Nombre de salles de bain"
+
+#~ msgid "Bedroom situtation"
+#~ msgstr "Informations sur la chambre"
+
+#~ msgid "Interconnecting room"
+#~ msgstr "Chambre traversante"
+
+#~ msgid "The flatmates"
+#~ msgstr "Les colocataires"
+
+#~ msgid "Give some informations about you and the other flatmates"
+#~ msgstr "Dîtes-nous en un peu plus sur vous et vos autres colocataires"
+
+#~ msgid "Advertiser status"
+#~ msgstr "Statut de l'annonceur"
+
+#~ msgid "Select a type"
+#~ msgstr "Sélectionner un type"
+
+#~ msgid "Do you live in ?"
+#~ msgstr "Y habitez-vous ?"
+
+#~ msgid "wants"
+#~ msgstr "recherchent"
+
+#~ msgid "Between"
+#~ msgstr "Entre"
+
+#~ msgid "min"
+#~ msgstr "min"
+
+#~ msgid "max"
+#~ msgstr "max"
+
+#~ msgid "Profesionnals and students"
+#~ msgstr "Étudiants et actifs"
+
+#~ msgid "Misc."
+#~ msgstr "Divers"
+
+#~ msgid "One or more couples in the house"
+#~ msgstr "Un ou plusieurs couples dans la colocation"
+
+#~ msgid "Couples authorised"
+#~ msgstr "Couples bienvenus "
+
+#~ msgid "One or more smokers in the house"
+#~ msgstr "Un ou plusieurs fumeurs dans la colocation"
+
+#~ msgid "Smokers authorized inside or outside"
+#~ msgstr "Fumeurs autorisés à l'intérieur ou à l'extérieur"
+
+#~ msgid "One or more pets in the house"
+#~ msgstr "Un ou plusieurs animaux dans la colocation"
+
+#~ msgid "Pet(s) authorised"
+#~ msgstr "Animaux bienvenus"
+
+#~ msgid "Other filters"
+#~ msgstr "Autres filtres"
+
+#~ msgid ""
+#~ "These are various filters about the accomodation — its type and its rooms "
+#~ "and its amenities."
+#~ msgstr ""
+#~ "Pour affinez votre recherche, utilisez les filtres (type de logement, "
+#~ "nombre de chambres…)."
+
+#~ msgid "The room(s)"
+#~ msgstr "Les chambres"
+
+#~ msgid "Close"
+#~ msgstr "Fermer"
+
+#~ msgid "Apply"
+#~ msgstr "Appliquer"
+
+#~ msgid "Select owner type"
+#~ msgstr "Type e propriétaire"
+
+#~ msgid "Display only ads for advertisers who actually lives in the flatshare"
+#~ msgstr ""
+#~ "Afficher uniquement les annonces des annonceurs qui vivent dans la "
+#~ "colocation"
+
+#~ msgid "Minimum 1 month"
+#~ msgstr "Minimum 1 mois"
+
+#~ msgid "Minimum 2 month"
+#~ msgstr "Minimum 2 mois"
+
+#~ msgid "Minimum 3 month"
+#~ msgstr "Minimum 3 mois"
+
+#~ msgid "Minimum 6 month"
+#~ msgstr "Minimum 6 mois"
+
+#~ msgid "Minimum 12 month"
+#~ msgstr "Minimum 12 mois"
+
+#~ msgid "Doesn't matter"
+#~ msgstr "Peu importe"
+
+#~ msgid "Exclude flatshare with couple(s)"
+#~ msgstr "Ignorer les colocations avec des couples"
+
+#~ msgid "Only ads with smokers autorised"
+#~ msgstr "Afficher uniquement les annonces où les fumeurs sont autorisés"
+
+#~ msgid "Exclude flatshare with pet(s)"
+#~ msgstr "Ignorer les colocations avec animal de compagnie"
+
+#, fuzzy
+#~ msgid "Sex"
+#~ msgstr "Sexe"
+
+#~ msgid "In a relationship"
+#~ msgstr "Je suis en couple"
+
+#~ msgid "I'm a smoker"
+#~ msgstr "Je suis fumeur"
+
+#~ msgid "One or more pets"
+#~ msgstr "Un ou plusieurs animaux"
+
+#~ msgid "Apartment"
+#~ msgstr "Appartement"
+
+#~ msgid "Select property type"
+#~ msgstr "Sélectionner un type de logement"
+
+#~ msgid "Number of flatmates"
+#~ msgstr "Nombre de colocataires"
+
+#~ msgid "Exlude shared bedrooms"
+#~ msgstr "Exclure les annonces comprenant des chambres communes"
+
+#~ msgid "Exclude interconnecting bedrooms"
+#~ msgstr "Exclure les chambres traversantes"
+
+#~ msgid "Display only furnished bedrooms"
+#~ msgstr "Afficher uniquement les chambres meublées"
+
+#~ msgid "Parking"
+#~ msgstr "Parking"
+
+#~ msgid "And more..."
+#~ msgstr "Et plus encore..."
+
+#~ msgid "Some options are checked in the modal below."
+#~ msgstr "Des filtres sont actifs dans la modal en-dessous."
+
+#~ msgid "Here, you can apply filters on the flatmates informations."
+#~ msgstr ""
+#~ "Ici, filtrez les annonces en fonction du profil des colocataires actuels."
+
+#~ msgid "Your informations"
+#~ msgstr "Vos informations"
+
+#~ msgid "Filter ads according to your informations."
+#~ msgstr "Filtrez les annonces en fonction de votre profil."
+
+#~ msgid "The accomodation"
+#~ msgstr "Le logement"
+
+#~ msgid "Age(s)"
+#~ msgstr "Age(s)"
+
+#~ msgid "When"
+#~ msgstr "Quand"
+
+#~ msgid "Available on <span class=\"label-attribute\">%s</span>"
+#~ msgstr "Disponible à partir du <span class=\"label-attribute\">%s</span>"
+
+#~ msgid "Charges included"
+#~ msgstr "Charges inclusent"
+
+#~ msgid "Holidays only"
+#~ msgstr "Uniquement pour les vacances"
+
+#~ msgid "Select the status"
+#~ msgstr "Sélectionnez votre statut"
+
+#~ msgid "This ad' is only available for holidays"
+#~ msgstr "Cette annonce n'est disponible que pour les vacances"
+
+#~ msgid "Included in the rent"
+#~ msgstr "Incluses dans le loyer"
+
+#~ msgid "Display only ads with rental charges included"
+#~ msgstr ""
+#~ "Afficher uniquement les annonces dont les charges sont comprises dans le "
+#~ "loyer "
+
+#~ msgid "For holidays only"
+#~ msgstr "Uniquement pour les vacances"
+
+#~ msgid "Select the status of the current flatmates"
+#~ msgstr "Sélectionner le statut des colocataires actuels"
+
+#~ msgid "\t"
+#~ msgstr "\t"
+
+#~ msgid "Number roommates"
+#~ msgstr "Nombre de pièce"
+
+#~ msgid "Lounge"
+#~ msgstr "Salon"
+
+#, fuzzy
+#~ msgid "He doesn't live in"
+#~ msgstr "J'y vie"
+
+#, fuzzy
+#~ msgid "Free rooms"
+#~ msgstr "Nombre de pièce libre"
+
+#~ msgid "Rooms"
+#~ msgstr "Chambres"
+
+#, fuzzy
+#~ msgid "General informations"
+#~ msgstr "Informations"
+
+#~ msgid "washing_machine"
+#~ msgstr "Machine à lavée"
+
+#~ msgid "He is NOT living in"
+#~ msgstr "L'annonceur n'y habite pas"
+
+#, fuzzy
+#~ msgid "Please select your owner type"
+#~ msgstr "Type e propriétaire"
+
+#, fuzzy
+#~ msgid "Please select a duration"
+#~ msgstr "Sélectionner une durée"
+
+#, fuzzy
+#~ msgid "Please enter flatshare area"
+#~ msgstr "Colocatair(e) parfait"
+
+#, fuzzy
+#~ msgid "Please select a property type"
+#~ msgstr "Type de propriété"
+
+#, fuzzy
+#~ msgid "Flatshare attributes"
+#~ msgstr "Attributs de la colocation"
+
+#~ msgid "Price"
+#~ msgstr "Prix"
+
+#~ msgid "Date"
+#~ msgstr "Date"
+
+#, fuzzy
+#~ msgid "holiday only"
+#~ msgstr "Vacances seulement"
+
+#, fuzzy
+#~ msgid "flatshare"
+#~ msgstr "Nombre de colocataire"
+
+#~ msgid "wants a..."
+#~ msgstr "souhaiteraient"
+
+#, fuzzy
+#~ msgid "Pet(s) included"
+#~ msgstr "Charges inclusent"
+
+#, fuzzy
+#~ msgid "Select A Property Type"
+#~ msgstr "Type e propriétaire"
+
+#~ msgid "Room characteristics"
+#~ msgstr "Caractéristique de la chambre"
+
+#~ msgid "Other characteristics"
+#~ msgstr "Autres caractéristiques"
+
+#, fuzzy
+#~ msgid "Not interconnected room"
+#~ msgstr "Chambre traversante"
+
+#, fuzzy
+#~ msgid "Private room"
+#~ msgstr "Chambre meublée"
+
+#~ msgid "Holydays only"
+#~ msgstr "Seulement les vacances"
+
+#~ msgid "Flat characteristics"
+#~ msgstr "Caractéristique de l'appartement"
+
+#~ msgid "Statut"
+#~ msgstr "Statut"

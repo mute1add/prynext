@@ -1,0 +1,81 @@
+/*
+Copyright (C) 2016 Puiu Calin
+This program is a commercial software: is forbidden to use this software without licence, 
+on multiple installations, and by purchasing from other source than those authorized for the sale of software.
+Unauthorized copying of this file, via any medium is strictly prohibited
+*/
+/* 
+    Created on : Apr 25, 2016, 7:39:30 PM
+    Author     : CALIN
+*/
+
+.debug_area {display:block;background: #F9F9F9;border:1px solid #ddd;border-radius:5px;box-shadow: 0px 0px 4px rgba(52, 50, 50, 0.25);padding:10px;position:relative;-moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;float:left;width:100%;}
+.debug_area .debug_read_text{width:70%;border:1px solid #ddd;background:#fff;padding:5px;max-height:500px;overflow-y:auto;padding-top:10px;padding-bottom:10px;}
+.debug_area .debug_read_text strong{display:block;margin-bottom:2px;font-weight:500;font-size:13px;}
+.debug_area .debug_read_text span{color: #034ED1;}
+.debug_area .debug-sidebar{width:25%;float:right;border:1px solid #ddd;background: #fff;padding:5px;}
+.debug_area .debug-sidebar h4{text-align:center;margin-bottom:10px;margin-top:10px;border-bottom:1px solid #ddd;padding-bottom:3px;}
+.debug_area .debug-sidebar span {display:block;margin-bottom:5px;}
+.debug_area .debug-sidebar span span{display:inline-block;color:#018BE3 ;font-weight:700;margin:0px;}
+.debug_area .debug-sidebar .debug_option{display:block;border-top:1px solid #ddd;margin-top:10px;}
+.debug_area .debug-sidebar .debug_option label {display:block;margin-bottom:5px;}
+.debug_area .debug-sidebar .debug_option input{margin-bottom:10px;display:block;width:95%;}
+.debug_area .debug-sidebar .debug_option a{text-decoration:none; margin-top:10px;display:block;background:#0085DA;text-align:center;padding:10px;color:#fff;border-radius:4px;}
+.debug_area .debug-sidebar .debug_option a:hover{background: #008FEA;}
+.debug_area .debug_info{border:1px solid #B9B9B9;background:#fff;padding:10px;}
+.debug_area .debug_info .fine{font-weight:700;text-align:center;color:green;font-size:16px;}
+.debug_area .help_page{float:right;margin-top:-40px;}
+.debug_area .info{display:block;}
+.debug_p_pag{margin-top:15px;}
+.debug_p_pag a, .debug_p_pag span{font-size:16px;border:1px solid #ddd;padding:5px;text-decoration:none;border-left:initial;padding-left:7px;padding-right:7px;}
+.debug_p_pag a:hover{text-decoration:none;background: #F3F3F3;}
+.debug_p_pag a.s_previ{border-left:1px solid #ddd;}
+.debug_p_pag .curent_c{border-left:1px solid #ddd;margin-left:-1px;}
+#debug .ico{background: transparent url("../images/debug.png") !important;height:44px;}
+.debug_icon_top{position:absolute;left:-10px;top:-10px;}
+.debug_icon_top img{width:20px;height:20px;}
+.other_products{display:block;margin-top:30px;-moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;float:left;width:362px;border:1px solid #C7F1FF ;padding:10px;}
+.other_products h4{border-bottom:1px solid #ddd;padding-bottom:5px;margin:10px;}
+.other_products ul{display:block;margin-top:5px;padding:0px;}
+.other_products a{display:inline-block; width:23%;margin:1%;float:left;border: 1px solid #F0F0F0;-moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;}
+.other_products a:hover{box-shadow: 0px 0px 4px rgba(52, 50, 50, 0.15);}
+.other_products a img{width:100%;height:60px;border-bottom:1px solid #bbb;}
+.other_products a span{display:block;margin-top:5px;text-align:center;height:35px;font-size:13px;}
+.rights {display: block;
+         background: #F9F9F9;
+         padding: 10px;
+         border: 1px solid #D6FFFF;
+         line-height:20px;
+         margin-bottom:10px;
+         overflow: hidden;
+         box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.1);
+}
+.rights .author {
+    display: inline-block;
+    background: #EBF6F6;
+    border: 1px solid #D6FFFF;
+    width:100%;
+    margin-top:10px;
+}
+.rights .like{
+    width:320px;
+    display:inline-block;
+    float:left;
+    line-height:30px;
+    margin-left:15px;
+}
+.author {
+    float:right;
+    line-height:40px;
+    margin-top:80px;
+    text-align:right;
+}
+.author .logo{float:right;}
+.author .text{float:right;margin-left:30px;
+              color: #777;
+              line-height:40px;
+}
+@media only screen and (max-width: 1100px){
+    
+   .author{width:450px;} 
+}

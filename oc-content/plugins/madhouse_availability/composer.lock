@@ -1,0 +1,117 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "e2ed2fbb76a7aebbc05dcf218d70ebba",
+    "content-hash": "16b4b8acce299e54e7ea9cd7be437034",
+    "packages": [
+        {
+            "name": "madhouse/autoloader",
+            "version": "1.00",
+            "source": {
+                "type": "git",
+                "url": "git@bitbucket.org:muchmuch/madhouse_autoloader.git",
+                "reference": "4462ec6ca3eb3928eef326e9f94c01338fb689a7"
+            },
+            "type": "library",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "MADHOUSE",
+                    "email": "contact.wearemadhouse@gmail.com"
+                }
+            ],
+            "description": "Custom autoloader (composer-way) for Osclass plugins.",
+            "time": "2015-02-09 13:48:43"
+        },
+        {
+            "name": "madhouse/utils",
+            "version": "1.20",
+            "source": {
+                "type": "git",
+                "url": "git@bitbucket.org:muchmuch/madhouse_utils.git",
+                "reference": "6ed918072b8b9d5d2e6e29ad0c504070e7d7b035"
+            },
+            "require": {
+                "mustache/mustache": "2.7"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Madhouse": "classes/"
+                },
+                "files": [
+                    "index.php"
+                ]
+            },
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "MADHOUSE",
+                    "email": "contact.wearemadhouse@gmail.com"
+                }
+            ],
+            "description": "Toolkit for Osclass plugins & themes, designed by Madhouse.",
+            "time": "2015-02-09 13:45:26"
+        },
+        {
+            "name": "mustache/mustache",
+            "version": "v2.7.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bobthecow/mustache.php.git",
+                "reference": "fdf41dd673dc99b41d60992470dbae94ae0b6ba1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bobthecow/mustache.php/zipball/fdf41dd673dc99b41d60992470dbae94ae0b6ba1",
+                "reference": "fdf41dd673dc99b41d60992470dbae94ae0b6ba1",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.2.4"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Mustache": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Justin Hileman",
+                    "email": "justin@justinhileman.info",
+                    "homepage": "http://justinhileman.com"
+                }
+            ],
+            "description": "A Mustache implementation in PHP.",
+            "homepage": "https://github.com/bobthecow/mustache.php",
+            "keywords": [
+                "mustache",
+                "templating"
+            ],
+            "time": "2014-08-26 19:50:10"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

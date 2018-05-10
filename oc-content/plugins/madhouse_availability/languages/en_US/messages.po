@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Madhouse Availability\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-19 18:23+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Madhouse <contact.wearemadhouse@gmail.com>\n"
+"Language-Team: Madhouse <contact.wearemadhouse@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SearchPath-0: /Users/romain/Sites/autroisieme/oc-content/plugins/"
+"madhouse_availability\n"
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/index.php:19
+#, php-format
+msgid ""
+"You need to <strong>update</strong> madhouse utils by following <a href="
+"\"http://wearemadhouse.wordpress.com/portfolio/madhouse-utils/\">this link</"
+"a> to use madhouse availability. Sorry for the inconveniance ;).<br/"
+">Madhouse Utils <strong>minimum version : %.2f</strong>"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/index.php:52
+msgid ""
+"You need to install madhouse utils by following <a href=\"http://"
+"wearemadhouse.wordpress.com/portfolio/madhouse-utils/\">this link</a> to use "
+"<strong>madhouse availability</strong>. Sorry for the inconveniance ;)"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/index.php:355
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/edit.php:1
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/search.php:2
+msgid "Availability"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/index.php:356
+msgid "Categories"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/index.php:357
+msgid "Settings"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/index.php:373
+msgid "Madhouse Availability"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:6
+msgid "Availability settings"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:11
+msgid "End date"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:14
+msgid "No"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:15
+msgid "Yes"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:16
+msgid "Display a duration"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:23
+msgid "Templates position"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:28
+msgid "Post"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:32
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:44
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:56
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:68
+msgid "Don't display"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:40
+msgid "Edit"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:52
+msgid "Detail"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:64
+msgid "Search"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/admin/settings.php:77
+msgid "Save changes"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/detail.php:1
+msgid "Availability:"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/detail.php:5
+msgid "until"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/detail.php:10
+#, php-format
+msgid "%d day"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/detail.php:12
+#, php-format
+msgid "%d days"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/edit.php:12
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/search.php:6
+msgid "Start"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/edit.php:27
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/search.php:18
+msgid "End"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/edit.php:33
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/search.php:24
+msgid "During"
+msgstr ""
+
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/edit.php:38
+#: /Users/romain/Sites/autroisieme/oc-content/plugins/madhouse_availability/views/web/search.php:29
+msgid "Month"
+msgstr ""
